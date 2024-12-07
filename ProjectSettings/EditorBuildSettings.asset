@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e7e0c0070305a6c4e855843f5115940f
+  - enabled: 1
+    path: Assets/Scenes/AngryBirb.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GamePicker.unity
+    guid: f7fdd02d7e0352c48baa1094b75c0a1e
+  - enabled: 1
+    path: Assets/Scenes/PixelPlatformer.unity
+    guid: 6e1c60981869971438b9076314c7dd72
+  m_configObjects: {}
